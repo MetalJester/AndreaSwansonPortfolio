@@ -1,7 +1,8 @@
-body {
-    background-image: url("../../assets/Images/swirl_pattern.png");
+.bg {
+    background-image: url("../../assets/Images/black-felt.png");
     background-repeat: repeat-x repeat-y;
     min-height: 2000px;
+
 }
 
 #headshot {
