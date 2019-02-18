@@ -1,0 +1,14 @@
+body {
+    background-image: url("../../assets/Images/swirl_pattern.png");
+    background-repeat: repeat-x repeat-y;
+    min-height: 2000px;
+}
+
+#headshot {
+    margin-top: 5px;
+}
+
+#box {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
