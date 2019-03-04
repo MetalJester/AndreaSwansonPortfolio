@@ -31,4 +31,12 @@
     font-size: 14pt;
 }
 
+#github {
+    font-size: 11pt;
+    color: lightgray;
+    font-weight: 600;
+    font-style: italic;
+    padding-top: 1px;
+}
+
 
